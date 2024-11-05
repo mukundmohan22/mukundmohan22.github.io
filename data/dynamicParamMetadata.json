@@ -1,0 +1,8 @@
+[
+    {
+        "id": "1",
+        "type": "input",
+        "name": "Some Name",
+        "defaultValue": "this is default value"
+    }
+]
