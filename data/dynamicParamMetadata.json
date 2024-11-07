@@ -1,8 +1,30 @@
 [
     {
         "id": "1",
-        "type": "input",
-        "name": "Some Name",
-        "defaultValue": "this is default value"
+        "CompType": "input",
+        "label": "String Input",
+        "defaultValue": "this is default value",
+        "type": "String"
+    },
+    {
+        "id": "2",
+        "CompType": "input",
+        "label": "Number Input",
+        "defaultValue": "007",
+        "type": "Number"
+    },
+    {
+        "id": "3",
+        "CompType": "singleSelect",
+        "label": "List of Value",
+        "defaultValue": "",
+        "type": "String"
+    },
+    {
+        "id": "4",
+        "CompType": "toggle",
+        "label": "Toggle",
+        "defaultValue": true,
+        "type": "Boolean"
     }
 ]
