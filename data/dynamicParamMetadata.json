@@ -34,5 +34,14 @@
             "defaultValue": "true",
             "type": "Boolean"
         }
+    },
+    {
+        "id": "5",
+        "CompType": "toggle",
+        "component": {
+            "label": "Toggle",
+            "defaultValue": "true",
+            "type": "Boolean"
+        }
     }
 ]
