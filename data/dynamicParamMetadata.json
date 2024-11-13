@@ -1,8 +1,8 @@
 [
     {
         "id": "1",
+        "CompType": "input",
         "component": {
-            "CompType": "input",
             "label": "String Input",
             "defaultValue": "this is default value",
             "type": "String"
@@ -10,8 +10,8 @@
     },
     {
         "id": "2",
+        "CompType": "input",
         "component": {
-            "CompType": "input",
             "label": "Number Input",
             "defaultValue": "007",
             "type": "Number"
@@ -19,8 +19,8 @@
     },
     {
         "id": "3",
+        "CompType": "singleSelect",
         "component": {
-            "CompType": "singleSelect",
             "label": "List of Value",
             "defaultValue": "",
             "type": "String"
@@ -28,10 +28,10 @@
     },
     {
         "id": "4",
+        "CompType": "toggle",
         "component": {
-            "CompType": "toggle",
             "label": "Toggle",
-            "defaultValue": true,
+            "defaultValue": "true",
             "type": "Boolean"
         }
     }
